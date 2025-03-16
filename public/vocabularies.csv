@@ -1,0 +1,887 @@
+english_word,bahasa_translation,example_usage,pronunciation
+hello,halo,"Hello, how are you today?",həˈləʊ
+goodbye,selamat tinggal,"Goodbye, see you tomorrow!",ɡʊdˈbaɪ
+thank you,terima kasih,Thank you for your help.,θæŋk juː
+please,tolong,Please help me with this.,pliːz
+sorry,maaf,I'm sorry for being late.,ˈsɒri
+house,rumah,My house is near the park.,haʊs
+table,meja,Put the book on the table.,ˈteɪbəl
+chair,kursi,Please sit on this chair.,tʃeə
+bed,tempat tidur,I need to make my bed.,bed
+door,pintu,Please close the door.,dɔː
+rice,nasi,We eat rice for dinner.,raɪs
+water,air,I need a glass of water.,ˈwɔːtə
+bread,roti,I had bread for breakfast.,bred
+coffee,kopi,Would you like some coffee?,ˈkɒfi
+tea,teh,She drinks tea every morning.,tiː
+mother,ibu,My mother cooks delicious food.,ˈmʌðə
+father,ayah,My father works in an office.,ˈfɑːðə
+sister,saudara perempuan,I have two sisters.,ˈsɪstə
+brother,saudara laki-laki,My brother is older than me.,ˈbrʌðə
+family,keluarga,Family is important.,ˈfæmɪli
+eat,makan,Let's eat lunch together.,iːt
+drink,minum,Don't forget to drink water.,drɪŋk
+sleep,tidur,I need to sleep early tonight.,sliːp
+walk,jalan,I walk to school every day.,wɔːk
+run,lari,He runs every morning.,rʌn
+today,hari ini,What are you doing today?,təˈdeɪ
+tomorrow,besok,See you tomorrow!,təˈmɒrəʊ
+yesterday,kemarin,I watched a movie yesterday.,ˈjestədeɪ
+morning,pagi,Good morning!,ˈmɔːnɪŋ
+night,malam,Good night!,naɪt
+one,satu,I need one ticket.,wʌn
+two,dua,I have two brothers.,tuː
+three,tiga,There are three books on the table.,θriː
+four,empat,The meeting starts in four minutes.,fɔː
+five,lima,I work five days a week.,faɪv
+red,merah,The apple is red.,red
+blue,biru,The sky is blue today.,bluː
+green,hijau,I like green tea.,ɡriːn
+yellow,kuning,The sun is yellow.,ˈjeləʊ
+black,hitam,She wore a black dress.,blæk
+rain,hujan,It might rain today.,reɪn
+sun,matahari,The sun is very bright.,sʌn
+cloud,awan,There are many clouds in the sky.,klaʊd
+wind,angin,The wind is strong today.,wɪnd
+hot,panas,It's very hot today.,hɒt
+car,mobil,I drive my car to work.,kɑː
+bus,bis,I take the bus to school.,bʌs
+train,kereta,The train leaves at 9 AM.,treɪn
+bicycle,sepeda,I ride my bicycle on weekends.,ˈbaɪsɪkl
+airplane,pesawat,We're taking an airplane to Bali.,ˈeəpleɪn
+happy,senang,I am happy to see you.,ˈhæpi
+sad,sedih,She felt sad after the movie.,sæd
+angry,marah,Don't make decisions when you're angry.,ˈæŋɡri
+tired,lelah,I'm tired after work.,ˈtaɪəd
+excited,gembira,I'm excited about the party.,ɪkˈsaɪtɪd
+teacher,guru,My sister is a teacher at the elementary school.,ˈtiːtʃə
+doctor,dokter,I have an appointment with the doctor tomorrow.,ˈdɒktə
+engineer,insinyur,He works as a software engineer.,ˌendʒɪˈnɪə
+chef,koki,The chef prepared a delicious meal.,ʃef
+driver,supir,The taxi driver knows all the shortcuts.,ˈdraɪvə
+head,kepala,I have a headache.,hed
+hand,tangan,Wash your hands before eating.,hænd
+eye,mata,She has beautiful brown eyes.,aɪ
+nose,hidung,My nose is blocked because of the cold.,nəʊz
+mouth,mulut,Please open your mouth wide.,maʊθ
+computer,komputer,I need to buy a new computer.,kəmˈpjuːtə
+phone,telepon,My phone battery is low.,fəʊn
+internet,internet,The internet connection is slow today.,ˈɪntənet
+email,surel,I sent you an email this morning.,ˈiːmeɪl
+website,situs web,Please visit our website for more information.,ˈwebsaɪt
+student,siswa,She is a hardworking student.,ˈstjuːdnt
+book,buku,I bought a new book yesterday.,bʊk
+pen,pulpen,Can I borrow your pen?,pen
+classroom,ruang kelas,The classroom is on the second floor.,ˈklɑːsruːm
+homework,pekerjaan rumah,Don't forget to do your homework.,ˈhəʊmwɜːk
+shop,toko,The shop opens at 9 AM.,ʃɒp
+money,uang,I need to save more money.,ˈmʌni
+price,harga,What's the price of this shirt?,praɪs
+market,pasar,Let's go to the market to buy vegetables.,ˈmɑːkɪt
+discount,diskon,This store is having a big discount.,ˈdɪskaʊnt
+hospital,rumah sakit,The hospital is near the city center.,ˈhɒspɪtl
+medicine,obat,Don't forget to take your medicine.,ˈmedsɪn
+sick,sakit,I feel sick today.,sɪk
+healthy,sehat,Eating vegetables keeps you healthy.,ˈhelθi
+pain,nyeri,I have pain in my back.,peɪn
+football,sepak bola,Let's play football in the park.,ˈfʊtbɔːl
+swimming,berenang,I go swimming every weekend.,ˈswɪmɪŋ
+basketball,bola basket,He plays basketball after school.,ˈbɑːskɪtbɔːl
+tennis,tenis,Do you want to play tennis?,ˈtenɪs
+running,berlari,Running is good for your health.,ˈrʌnɪŋ
+music,musik,I love listening to music.,ˈmjuːzɪk
+movie,film,What's your favorite movie?,ˈmuːvi
+dance,tari,She takes dance classes on Saturdays.,dɑːns
+painting,lukisan,This painting is beautiful.,ˈpeɪntɪŋ
+song,lagu,Can you sing this song?,sɒŋ
+office,kantor,I work in an office downtown.,ˈɒfɪs
+meeting,rapat,We have a meeting at 2 PM.,ˈmiːtɪŋ
+job,pekerjaan,I love my new job.,dʒɒb
+salary,gaji,He got a salary increase.,ˈsæləri
+manager,manajer,The manager wants to see you.,ˈmænɪdʒə
+shirt,kemeja,I need to iron my shirt.,ʃɜːt
+pants,celana,These pants are too big.,pænts
+shoes,sepatu,My new shoes are comfortable.,ʃuːz
+dress,gaun,She wore a beautiful dress to the party.,dres
+jacket,jaket,"It's cold, wear your jacket.",ˈdʒækɪt
+tree,pohon,The tree provides shade from the sun.,triː
+flower,bunga,These flowers smell wonderful.,ˈflaʊə
+mountain,gunung,We can see the mountain from here.,ˈmaʊntɪn
+beach,pantai,Let's go to the beach this weekend.,biːtʃ
+river,sungai,The river flows through the city.,ˈrɪvə
+cat,kucing,The cat is sleeping on the sofa.,kæt
+dog,anjing,My dog loves to play fetch.,dɒɡ
+bird,burung,I can hear birds singing.,bɜːd
+fish,ikan,We had grilled fish for dinner.,fɪʃ
+chicken,ayam,Would you like some chicken soup?,ˈtʃɪkɪn
+bank,bank,I need to go to the bank.,bæŋk
+restaurant,restoran,This restaurant serves delicious food.,ˈrestrɒnt
+park,taman,The children are playing in the park.,pɑːk
+library,perpustakaan,I study at the library.,ˈlaɪbrəri
+airport,bandara,We arrived at the airport early.,ˈeəpɔːt
+big,besar,That's a big house.,bɪɡ
+small,kecil,The cat is very small.,smɔːl
+beautiful,cantik,What a beautiful garden!,ˈbjuːtɪfl
+difficult,sulit,This problem is difficult.,ˈdɪfɪkəlt
+easy,mudah,The test was easy.,ˈiːzi
+schedule,jadwal,Check your schedule for next week.,ˈʃedjuːl
+appointment,janji,I have an appointment at 3 PM.,əˈpɔɪntmənt
+early,awal,I wake up early every day.,ˈɜːli
+late,terlambat,Sorry I'm late for the meeting.,leɪt
+busy,sibuk,I'm very busy this week.,ˈbɪzi
+speak,berbicara,Can you speak English?,spiːk
+listen,mendengarkan,Please listen carefully.,ˈlɪsn
+write,menulis,I need to write a letter.,raɪt
+read,membaca,I like to read books.,riːd
+wake up,bangun,I wake up at 6 AM every day.,weɪk ʌp
+shower,mandi,I take a shower in the morning.,ˈʃaʊə
+brush,menyikat,Don't forget to brush your teeth.,brʌʃ
+cook,memasak,I like to cook dinner for my family.,kʊk
+clean,membersihkan,We clean the house every weekend.,kliːn
+spoon,sendok,"Pass me the spoon, please.",spuːn
+fork,garpu,Use your fork to eat the salad.,fɔːk
+plate,piring,Put the food on the plate.,pleɪt
+pan,wajan,Heat the oil in the pan.,pæn
+refrigerator,kulkas,Store the milk in the refrigerator.,rɪˈfrɪdʒəreɪtə
+laptop,laptop,I need to charge my laptop.,ˈlæptɒp
+tablet,tablet,She reads books on her tablet.,ˈtæblət
+charger,pengisi daya,Don't forget your phone charger.,ˈtʃɑːdʒə
+headphones,headphone,I listen to music with headphones.,ˈhedfəʊnz
+camera,kamera,Take a picture with the camera.,ˈkæmərə
+love,cinta,I love my family very much.,lʌv
+afraid,takut,Don't be afraid to try new things.,əˈfreɪd
+surprised,terkejut,I was surprised by the news.,səˈpraɪzd
+proud,bangga,I'm proud of your achievement.,praʊd
+worried,khawatir,She's worried about the exam.,ˈwʌrid
+sunny,cerah,It's a sunny day today.,ˈsʌni
+cloudy,berawan,The sky is cloudy this morning.,ˈklaʊdi
+storm,badai,There's a storm coming.,stɔːm
+humid,lembab,The weather is very humid.,ˈhjuːmɪd
+foggy,berkabut,Be careful driving in foggy weather.,ˈfɒɡi
+toothbrush,sikat gigi,I need a new toothbrush.,ˈtuːθbrʌʃ
+soap,sabun,We're out of hand soap.,səʊp
+shampoo,sampo,I forgot to buy shampoo.,ʃæmˈpuː
+towel,handuk,Hang the wet towel to dry.,ˈtaʊəl
+comb,sisir,Can I borrow your comb?,kəʊm
+password,kata sandi,Don't share your password.,ˈpɑːswɜːd
+upload,unggah,I'll upload the photos later.,ˈʌpləʊd
+download,unduh,You can download the app here.,ˈdaʊnləʊd
+share,bagikan,Please share this post.,ʃeə
+message,pesan,I sent you a message.,ˈmesɪdʒ
+ticket,tiket,Have you bought the train ticket?,ˈtɪkɪt
+station,stasiun,The station is very crowded.,ˈsteɪʃn
+passenger,penumpang,All passengers must fasten their seatbelts.,ˈpæsɪndʒə
+taxi,taksi,Let's take a taxi home.,ˈtæksi
+motorcycle,sepeda motor,He rides a motorcycle to work.,ˈməʊtəsaɪkl
+emergency,darurat,Call emergency services immediately.,ɪˈmɜːdʒənsi
+police,polisi,The police arrived quickly.,pəˈliːs
+ambulance,ambulans,An ambulance is on its way.,ˈæmbjʊləns
+fire,api,There's a fire in the building!,ˈfaɪə
+safe,aman,Make sure you're safe.,seɪf
+wallet,dompet,I left my wallet at home.,ˈwɒlɪt
+receipt,struk,Please keep the receipt.,rɪˈsiːt
+expensive,mahal,This restaurant is expensive.,ɪkˈspensɪv
+cheap,murah,These shoes are very cheap.,tʃiːp
+sale,obral,The sale starts tomorrow.,seɪl
+now,sekarang,We need to leave now.,naʊ
+later,nanti,I'll do it later.,ˈleɪtə
+soon,segera,The movie will start soon.,suːn
+always,selalu,She's always on time.,ˈɔːlweɪz
+never,tidak pernah,I never drink coffee.,ˈnevə
+reading,membaca,Reading is my favorite hobby.,ˈriːdɪŋ
+cooking,memasak,Cooking helps me relax.,ˈkʊkɪŋ
+gardening,berkebun,She enjoys gardening on weekends.,ˈɡɑːdnɪŋ
+photography,fotografi,Photography is his passion.,fəˈtɒɡrəfi
+traveling,bepergian,I love traveling to new places.,ˈtrævəlɪŋ
+mathematics,matematika,Mathematics is my best subject.,ˌmæθəˈmætɪks
+science,ilmu pengetahuan,We learn science in the laboratory.,ˈsaɪəns
+history,sejarah,I find history fascinating.,ˈhɪstri
+geography,geografi,We studied world geography today.,dʒiˈɒɡrəfi
+literature,sastra,English literature is interesting.,ˈlɪtrətʃə
+kilogram,kilogram,Buy two kilograms of rice.,ˈkɪləɡræm
+meter,meter,The room is five meters wide.,ˈmiːtə
+liter,liter,I need a liter of milk.,ˈliːtə
+dozen,lusin,I bought a dozen eggs.,ˈdʌzn
+piece,potong,Would you like a piece of cake?,piːs
+smart,pintar,She's a smart student.,smɑːt
+kind,baik hati,He's very kind to everyone.,kaɪnd
+lazy,malas,"Don't be lazy, do your homework.",ˈleɪzi
+honest,jujur,Always be honest with people.,ˈɒnɪst
+flour,tepung,We need flour to make bread.,ˈflaʊə
+sugar,gula,Add two spoons of sugar.,ˈʃʊɡə
+salt,garam,The soup needs more salt.,sɔːlt
+pepper,merica,Add some black pepper to taste.,ˈpepə
+oil,minyak,Heat the oil in the pan.,ɔɪl
+nurse,perawat,The nurse took my temperature.,nɜːs
+writer,penulis,She works as a writer.,ˈraɪtə
+architect,arsitek,He's an architect in a big firm.,ˈɑːkɪtekt
+pilot,pilot,My brother is an airline pilot.,ˈpaɪlət
+dentist,dokter gigi,I have an appointment with the dentist.,ˈdentɪst
+ball,bola,Throw me the ball.,bɔːl
+racket,raket,I need a new tennis racket.,ˈrækɪt
+gloves,sarung tangan,Don't forget your boxing gloves.,ɡlʌvz
+net,jaring,The volleyball net needs fixing.,net
+bat,pemukul,This baseball bat is too heavy.,bæt
+sofa,sofa,The sofa is very comfortable.,ˈsəʊfə
+mirror,cermin,Look at yourself in the mirror.,ˈmɪrə
+lamp,lampu,"Turn on the lamp, please.",læmp
+carpet,karpet,This carpet needs cleaning.,ˈkɑːpɪt
+curtain,gorden,Close the curtains at night.,ˈkɜːtn
+pencil,pensil,I need to sharpen my pencil.,ˈpensəl
+eraser,penghapus,Can I borrow your eraser?,ɪˈreɪzə
+ruler,penggaris,Use a ruler to draw straight lines.,ˈruːlə
+scissors,gunting,These scissors are very sharp.,ˈsɪzəz
+glue,lem,We need glue for this project.,ɡluː
+fever,demam,He has a high fever.,ˈfiːvə
+headache,sakit kepala,I have a terrible headache.,ˈhedeɪk
+cough,batuk,This cough won't go away.,kɒf
+allergy,alergi,I have an allergy to peanuts.,ˈælədʒi
+prescription,resep dokter,Get this prescription filled.,prɪˈskrɪpʃn
+passport,paspor,Don't forget your passport.,ˈpɑːspɔːt
+tourist,wisatawan,Many tourists visit this temple.,ˈtʊərɪst
+hotel,hotel,We're staying at this hotel.,həʊˈtel
+guide,pemandu,Our tour guide was very helpful.,ɡaɪd
+vacation,liburan,We're planning our summer vacation.,vəˈkeɪʃn
+keyboard,papan ketik,My keyboard needs cleaning.,ˈkiːbɔːd
+mouse,tetikus,The computer mouse isn't working.,maʊs
+printer,pencetak,The printer is out of ink.,ˈprɪntə
+software,perangkat lunak,Update your software regularly.,ˈsɒftweə
+virus,virus,My computer has a virus.,ˈvaɪrəs
+guitar,gitar,He plays the guitar very well.,ɡɪˈtɑː
+piano,piano,She takes piano lessons.,piˈænəʊ
+drum,drum,The drum beat is too loud.,drʌm
+violin,biola,The violin needs tuning.,ˌvaɪəˈlɪn
+flute,seruling,She plays the flute in the orchestra.,fluːt
+grass,rumput,The grass needs cutting.,ɡrɑːs
+seed,biji,Plant these seeds in spring.,siːd
+leaf,daun,The leaves are turning brown.,liːf
+root,akar,The plant has strong roots.,ruːt
+garden,kebun,Our garden is full of flowers.,ˈɡɑːdn
+lawyer,pengacara,I need to speak with my lawyer.,ˈlɔːjə
+contract,kontrak,Read the contract carefully.,ˈkɒntrækt
+witness,saksi,She was a witness to the accident.,ˈwɪtnəs
+court,pengadilan,The case is going to court.,kɔːt
+judge,hakim,The judge made his decision.,dʒʌdʒ
+account,rekening,I opened a new bank account.,əˈkaʊnt
+loan,pinjaman,I need to apply for a loan.,ləʊn
+credit,kredit,Pay with credit card.,ˈkredɪt
+savings,tabungan,Put some money in savings.,ˈseɪvɪŋz
+interest,bunga,The interest rate is low.,ˈɪntrəst
+hammer,palu,Use the hammer carefully.,ˈhæmə
+screwdriver,obeng,Pass me the screwdriver.,ˈskruːdraɪvə
+saw,gergaji,This saw is very sharp.,sɔː
+drill,bor,We need a drill for this job.,drɪl
+ladder,tangga,Hold the ladder steady.,ˈlædə
+belt,ikat pinggang,This belt is too loose.,belt
+watch,jam tangan,My watch is broken.,wɒtʃ
+necklace,kalung,That's a beautiful necklace.,ˈnekləs
+umbrella,payung,"Take an umbrella, it might rain.",ʌmˈbrelə
+glasses,kacamata,I can't find my glasses.,ˈɡlɑːsɪz
+menu,menu,"Can I see the menu, please?",ˈmenjuː
+waiter,pelayan,"Call the waiter, please.",ˈweɪtə
+bill,tagihan,Could we have the bill?,bɪl
+reservation,reservasi,Do we need a reservation?,ˌrezəˈveɪʃn
+helicopter,helikopter,The helicopter landed on the roof.,ˈhelɪkɒptə
+ship,kapal,The ship sails at dawn.,ʃɪp
+ferry,kapal feri,We took the ferry to the island.,ˈferi
+scooter,skuter,He rides a scooter to work.,ˈskuːtə
+subway,kereta bawah tanah,The subway is faster than the bus.,ˈsʌbweɪ
+stapler,stapler,The stapler is out of staples.,ˈsteɪplə
+paperclip,klip kertas,Attach it with a paperclip.,ˈpeɪpəklɪp
+envelope,amplop,Put the letter in an envelope.,ˈenvələʊp
+calendar,kalender,Mark the date on the calendar.,ˈkælɪndə
+folder,map,Keep your documents in this folder.,ˈfəʊldə
+vegetable,sayuran,Eat more vegetables.,ˈvedʒtəbl
+fruit,buah,Fresh fruit is good for you.,fruːt
+meat,daging,I don't eat meat.,miːt
+seafood,makanan laut,I love seafood.,ˈsiːfuːd
+dessert,makanan penutup,What's for dessert?,dɪˈzɜːt
+toothpaste,pasta gigi,We need new toothpaste.,ˈtuːθpeɪst
+toilet,toilet,The toilet is broken.,ˈtɔɪlət
+sink,wastafel,Wash your hands in the sink.,sɪŋk
+knife,pisau,This knife is very sharp.,naɪf
+bowl,mangkuk,Put the soup in a bowl.,bəʊl
+cup,cangkir,Pour me a cup of tea.,kʌp
+kettle,ketel,The kettle is boiling.,ˈketl
+blender,blender,Use the blender for smoothies.,ˈblendə
+sing,bernyanyi,She loves to sing.,sɪŋ
+jump,melompat,The children jump rope.,dʒʌmp
+laugh,tertawa,That joke made me laugh.,lɑːf
+cry,menangis,The baby started to cry.,kraɪ
+tall,tinggi,He's very tall for his age.,tɔːl
+short,pendek,The skirt is too short.,ʃɔːt
+heavy,berat,This box is heavy.,ˈhevi
+light,ringan,This bag is very light.,laɪt
+soft,lembut,This pillow is soft.,sɒft
+shoulder,bahu,My shoulder hurts.,ˈʃəʊldə
+knee,lutut,I injured my knee.,niː
+ankle,pergelangan kaki,She twisted her ankle.,ˈæŋkl
+elbow,siku,Rest your elbow on the table.,ˈelbəʊ
+wrist,pergelangan tangan,My wrist is sore.,rɪst
+roof,atap,The roof needs repair.,ruːf
+wall,dinding,Paint the wall blue.,wɔːl
+ceiling,langit-langit,The ceiling is too high.,ˈsiːlɪŋ
+floor,lantai,The floor is wet.,flɔː
+stairs,tangga,Walk up the stairs.,steəz
+smartphone,ponsel pintar,I need a new smartphone.,ˈsmɑːtfəʊn
+microwave,microwave,Heat it in the microwave.,ˈmaɪkrəweɪv
+speaker,pengeras suara,The speaker is too loud.,ˈspiːkə
+remote,remot,Where's the TV remote?,rɪˈməʊt
+battery,baterai,The battery is dead.,ˈbætri
+physics,fisika,Physics is challenging.,ˈfɪzɪks
+chemistry,kimia,I love chemistry class.,ˈkemɪstri
+biology,biologi,We study biology in lab.,baɪˈɒlədʒi
+art,seni,Art is my favorite subject.,ɑːt
+ocean,lautan,The ocean is vast.,ˈəʊʃn
+forest,hutan,We walked through the forest.,ˈfɒrɪst
+desert,gurun,The desert is hot and dry.,ˈdezət
+valley,lembah,The valley is beautiful.,ˈvæli
+hill,bukit,Let's climb that hill.,hɪl
+sweater,sweter,"Wear a sweater, it's cold.",ˈswetə
+scarf,syal,This scarf is warm.,skɑːf
+hat,topi,Wear a hat in the sun.,hæt
+socks,kaus kaki,My socks are wet.,sɒks
+purple,ungu,I like the purple flowers.,ˈpɜːpl
+orange,oranye,The orange sunset is beautiful.,ˈɒrɪndʒ
+brown,cokelat,His eyes are brown.,braʊn
+grey,abu-abu,The sky is grey today.,ɡreɪ
+pink,merah muda,She wore a pink dress.,pɪŋk
+friend,teman,She's my best friend.,frend
+neighbor,tetangga,Our neighbors are friendly.,ˈneɪbə
+cousin,sepupu,My cousin lives abroad.,ˈkʌzn
+uncle,paman,My uncle visited us yesterday.,ˈʌŋkl
+ant,semut,There are ants in the kitchen.,ænt
+butterfly,kupu-kupu,A beautiful butterfly landed on the flower.,ˈbʌtəflaɪ
+mosquito,nyamuk,Use repellent for mosquitos.,məˈskiːtəʊ
+spider,laba-laba,There's a spider in the corner.,ˈspaɪdə
+bee,lebah,The bee is collecting honey.,biː
+excuse me,permisi,"Excuse me, could you help me?",ɪkˈskjuːs miː
+you're welcome,sama-sama,"You're welcome, happy to help.",jɔː ˈwelkəm
+good morning,selamat pagi,"Good morning, how are you?",ɡʊd ˈmɔːnɪŋ
+good night,selamat malam,"Good night, sleep well.",ɡʊd naɪt
+see you later,sampai jumpa,See you later at the meeting.,siː juː ˈleɪtə
+what,apa,What is your name?,wɒt
+where,dimana,Where are you going?,weə
+when,kapan,When is the party?,wen
+who,siapa,Who is that person?,huː
+why,mengapa,Why are you late?,waɪ
+jogging,joging,I go jogging every morning.,ˈdʒɒɡɪŋ
+cycling,bersepeda,Cycling is good exercise.,ˈsaɪklɪŋ
+hiking,mendaki,We went hiking in the mountains.,ˈhaɪkɪŋ
+skating,bermain sepatu roda,The children are skating.,ˈskeɪtɪŋ
+surfing,berselancar,He goes surfing on weekends.,ˈsɜːfɪŋ
+wood,kayu,This table is made of wood.,wʊd
+plastic,plastik,Don't use plastic bags.,ˈplæstɪk
+metal,logam,The metal is very strong.,ˈmetl
+glass,kaca,Be careful with the glass.,ɡlɑːs
+rubber,karet,The tires are made of rubber.,ˈrʌbə
+circle,lingkaran,Draw a circle here.,ˈsɜːkl
+square,persegi,The room is square.,skweə
+triangle,segitiga,This is a triangle shape.,ˈtraɪæŋɡl
+rectangle,persegi panjang,The paper is rectangle.,ˈrektæŋɡl
+oval,oval,The mirror has an oval shape.,ˈəʊvl
+brave,berani,He is very brave.,breɪv
+shy,pemalu,She is shy around strangers.,ʃaɪ
+clever,pandai,What a clever solution!,ˈklevə
+patient,sabar,"Be patient, please wait.",ˈpeɪʃnt
+creative,kreatif,She is very creative.,kriˈeɪtɪv
+artist,seniman,She works as an artist.,ˈɑːtɪst
+baker,tukang roti,The baker makes fresh bread.,ˈbeɪkə
+farmer,petani,My grandfather was a farmer.,ˈfɑːmə
+mechanic,montir,Call the mechanic to fix the car.,məˈkænɪk
+scientist,ilmuwan,She is a famous scientist.,ˈsaɪəntɪst
+flu,flu,I caught the flu.,fluː
+cold,pilek,I have a cold today.,kəʊld
+diabetes,diabetes,He has type 2 diabetes.,ˌdaɪəˈbiːtiːz
+asthma,asma,She has asthma problems.,ˈæsmə
+migraine,migren,I get frequent migraines.,ˈmaɪɡreɪn
+minute,menit,"Wait a minute, please.",ˈmɪnɪt
+hour,jam,The meeting lasted an hour.,aʊə
+week,minggu,See you next week.,wiːk
+month,bulan,I'll be away for a month.,mʌnθ
+year,tahun,Happy New Year!,jɪə
+addition,penjumlahan,Let's do addition first.,əˈdɪʃn
+subtraction,pengurangan,Practice subtraction here.,səbˈtrækʃn
+multiplication,perkalian,Learn your multiplication tables.,ˌmʌltɪplɪˈkeɪʃn
+division,pembagian,This division is difficult.,dɪˈvɪʒn
+equals,sama dengan,Two plus two equals four.,ˈiːkwəlz
+noodles,mie,I love spicy noodles.,ˈnuːdlz
+soup,sup,The soup is hot.,suːp
+salad,salad,I'll have a green salad.,ˈsæləd
+sandwich,roti isi,Pack a sandwich for lunch.,ˈsænwɪtʃ
+juice,jus,"Fresh orange juice, please.",dʒuːs
+milk,susu,Drink your milk.,mɪlk
+rainbow,pelangi,Look at the beautiful rainbow!,ˈreɪnbəʊ
+lightning,petir,The lightning was bright.,ˈlaɪtnɪŋ
+thunder,guntur,The thunder was loud.,ˈθʌndə
+fog,kabut,Drive carefully in the fog.,fɒɡ
+breeze,angin sepoi-sepoi,Enjoy the cool breeze.,briːz
+new,baru,I bought a new car.,njuː
+old,tua,This is an old building.,əʊld
+fast,cepat,The train is very fast.,fɑːst
+slow,lambat,The internet is slow today.,sləʊ
+work,bekerja,I work from home.,wɜːk
+study,belajar,I study English every day.,ˈstʌdi
+rest,istirahat,Let's rest for a while.,rest
+exercise,olahraga,Exercise is good for health.,ˈeksəsaɪz
+buy,membeli,I want to buy new shoes.,baɪ
+sell,menjual,They sell fresh vegetables.,sel
+help,membantu,Can you help me?,help
+think,berpikir,Let me think about it.,θɪŋk
+remember,mengingat,I remember that day.,rɪˈmembə
+app,aplikasi,Download the app.,æp
+data,data,Save your data.,ˈdeɪtə
+wifi,wifi,The wifi is slow.,ˈwaɪfaɪ
+report,laporan,Submit your report today.,rɪˈpɔːt
+client,klien,Meet with the client.,ˈklaɪənt
+project,proyek,Work on the project.,ˈprɒdʒekt
+deadline,batas waktu,Meet the deadline.,ˈdedlaɪn
+game,permainan,Play a fun game.,ɡeɪm
+show,pertunjukan,The show was great.,ʃəʊ
+concert,konser,Attend the concert.,ˈkɒnsət
+channel,saluran,Change the channel.,ˈtʃænl
+post,posting,Like my new post.,pəʊst
+comment,komentar,Leave a comment.,ˈkɒment
+profile,profil,Update your profile.,ˈprəʊfaɪl
+follow,mengikuti,Follow me on Instagram.,ˈfɒləʊ
+experiment,percobaan,Do the experiment.,ɪkˈsperɪmənt
+research,penelitian,Conduct research.,rɪˈsɜːtʃ
+theory,teori,Test the theory.,ˈθɪəri
+analysis,analisis,Complete the analysis.,əˈnæləsɪs
+discovery,penemuan,Make a discovery.,dɪˈskʌvəri
+pillow,bantal,Get a new pillow.,ˈpɪləʊ
+blanket,selimut,Use a warm blanket.,ˈblæŋkɪt
+shelf,rak,Put it on the shelf.,ʃelf
+drawer,laci,Open the drawer.,drɔː
+clock,jam,Check the clock.,klɒk
+egg,telur,Boil the egg.,eɡ
+luggage,bagasi,Pack your luggage.,ˈlʌɡɪdʒ
+map,peta,Check the map.,mæp
+destination,tujuan,Reach the destination.,ˌdestɪˈneɪʃn
+finger,jari,Cut your fingernails.,ˈfɪŋɡə
+toe,jari kaki,Stub my toe.,təʊ
+back,punggung,My back hurts.,bæk
+chest,dada,Take deep breaths.,tʃest
+neck,leher,Turn your neck.,nek
+sky,langit,Look at the sky.,skaɪ
+star,bintang,Count the stars.,stɑː
+moon,bulan,Full moon tonight.,muːn
+flight,penerbangan,Book a flight.,flaɪt
+journey,perjalanan,Long journey ahead.,ˈdʒɜːni
+route,rute,Take this route.,ruːt
+traffic,lalu lintas,Heavy traffic today.,ˈtræfɪk
+parking,parkir,Find parking space.,ˈpɑːkɪŋ
+nervous,gugup,Get nervous.,ˈnɜːvəs
+calm,tenang,Stay calm.,kɑːm
+stressed,stres,Feel stressed.,strest
+hundred,seratus,I need one hundred copies.,ˈhʌndrəd
+thousand,seribu,A thousand thanks.,ˈθaʊznd
+million,juta,The city has a million people.,ˈmɪljən
+first,pertama,He came in first place.,fɜːst
+second,kedua,This is my second attempt.,ˈsekənd
+break a leg,semoga berhasil,Break a leg at your performance!,breɪk ə leɡ
+piece of cake,sangat mudah,The test was a piece of cake.,piːs əv keɪk
+under the weather,tidak enak badan,I'm feeling under the weather.,ˈʌndə ðə ˈweðə
+time flies,waktu berlalu cepat,Time flies when you're having fun.,taɪm flaɪz
+cost an arm and a leg,sangat mahal,That car costs an arm and a leg.,kɒst ən ɑːm ænd ə leɡ
+grandson,cucu laki-laki,My grandson is five years old.,ˈɡrænsʌn
+granddaughter,cucu perempuan,His granddaughter plays piano.,ˈɡrændɔːtə
+nephew,keponakan laki-laki,My nephew starts school this year.,ˈnefjuː
+niece,keponakan perempuan,My niece loves to dance.,niːs
+in-law,menantu,My mother-in-law is visiting.,ɪn lɔː
+north,utara,Drive north for two miles.,nɔːθ
+south,selatan,The beach is south of here.,saʊθ
+east,timur,The sun rises in the east.,iːst
+west,barat,The sun sets in the west.,west
+nearby,dekat,There's a store nearby.,ˈnɪəbaɪ
+wrench,kunci pas,Use the wrench to tighten it.,rentʃ
+pliers,tang,These pliers are rusty.,ˈplaɪəz
+gram,gram,Add fifty grams of sugar.,ɡræm
+inch,inci,The screen is 15 inches wide.,ɪntʃ
+pound,pon,I lost five pounds.,paʊnd
+dizzy,pusing,I feel dizzy today.,ˈdɪzi
+nausea,mual,She has nausea after eating.,ˈnɔːziə
+rash,ruam,The rash is itchy.,ræʃ
+swelling,bengkak,There's swelling in my ankle.,ˈswelɪŋ
+notebook,buku tulis,I need a new notebook.,ˈnəʊtbʊk
+backpack,tas punggung,My backpack is heavy.,ˈbækpæk
+pencil case,tempat pensil,Put it in your pencil case.,ˈpensəl keɪs
+calculator,kalkulator,Use a calculator for math.,ˈkælkjʊleɪtə
+textbook,buku pelajaran,Bring your textbook tomorrow.,ˈtekstbʊk
+appetizer,hidangan pembuka,Let's order an appetizer.,ˈæpɪtaɪzə
+main course,hidangan utama,The main course was delicious.,meɪn kɔːs
+beverage,minuman,Choose your beverage.,ˈbevərɪdʒ
+check,bon,"Can we have the check, please?",tʃek
+scanner,pemindai,Use the scanner for documents.,ˈskænə
+shredder,penghancur kertas,Put it in the shredder.,ˈʃredə
+photocopier,mesin fotokopi,The photocopier is broken.,ˈfəʊtəʊkɒpiə
+filing cabinet,lemari arsip,Check the filing cabinet.,ˈfaɪlɪŋ ˈkæbɪnət
+rake,garu,Use the rake for leaves.,reɪk
+shovel,sekop,Get the shovel from the shed.,ˈʃʌvl
+hose,selang,Water the plants with the hose.,həʊz
+pruner,pemangkas,These pruners are sharp.,ˈpruːnə
+watering can,penyiram tanaman,Fill the watering can.,ˈwɔːtərɪŋ kæn
+couch,sofa,Sit on the couch.,kaʊtʃ
+armchair,kursi berlengan,The armchair is comfortable.,ˈɑːmtʃeə
+dresser,lemari pakaian,Put clothes in the dresser.,ˈdresə
+nightstand,meja samping tempat tidur,Place the lamp on the nightstand.,ˈnaɪtstænd
+bookshelf,rak buku,Organize the bookshelf.,ˈbʊkʃelf
+open,buka,Open the door.,ˈəʊpən
+close,tutup,Close the window.,kləʊz
+push,dorong,Push the button.,pʊʃ
+pull,tarik,Pull the handle.,pʊl
+lift,angkat,Lift the box carefully.,lɪft
+helmet,helm,Wear your helmet.,ˈhelmɪt
+goggles,kacamata renang,Don't forget your goggles.,ˈɡɒɡlz
+mat,matras,Roll out the yoga mat.,mæt
+whistle,peluit,The referee blew the whistle.,ˈwɪsl
+goal post,gawang,The ball hit the goal post.,ɡəʊl pəʊst
+no problem,tidak masalah,"No problem, I'll help.",nəʊ ˈprɒbləm
+get well soon,semoga lekas sembuh,Get well soon!,ɡet wel suːn
+take care,hati-hati,"Take care, see you tomorrow.",teɪk keə
+learn,belajar,Learn something new every day.,lɜːn
+teach,mengajar,She teaches English.,tiːtʃ
+grow,tumbuh,Plants grow in sunlight.,ɡrəʊ
+improve,meningkatkan,Try to improve your skills.,ɪmˈpruːv
+achieve,mencapai,You can achieve your goals.,əˈtʃiːv
+interesting,menarik,This book is interesting.,ˈɪntrəstɪŋ
+boring,membosankan,The lecture was boring.,ˈbɔːrɪŋ
+exciting,menyenangkan,What an exciting game!,ɪkˈsaɪtɪŋ
+dangerous,berbahaya,This road is dangerous.,ˈdeɪndʒərəs
+opportunity,kesempatan,Take this opportunity.,ˌɒpəˈtjuːnəti
+success,kesuksesan,I wish you success.,səkˈses
+failure,kegagalan,Learn from failure.,ˈfeɪljə
+experience,pengalaman,Share your experience.,ɪkˈspɪəriəns
+knowledge,pengetahuan,Increase your knowledge.,ˈnɒlɪdʒ
+nowadays,saat ini,"Nowadays, everyone has a phone.",ˈnaʊədeɪz
+recently,baru-baru ini,I saw him recently.,ˈriːsntli
+sometime,suatu saat,Visit me sometime.,ˈsʌmtaɪm
+eventually,akhirnya,You'll succeed eventually.,ɪˈventʃuəli
+immediately,segera,Come here immediately.,ɪˈmiːdiətli
+of course,tentu saja,Of course I'll help.,əv kɔːs
+by the way,ngomong-ngomong,"By the way, I saw John.",baɪ ðə weɪ
+in fact,sebenarnya,"In fact, he's quite nice.",ɪn fækt
+as usual,seperti biasa,"He's late, as usual.",æz ˈjuːʒʊəl
+never mind,tidak apa-apa,"Never mind, I'll do it.",ˈnevə maɪnd
+pasta,pasta,Let's have pasta for dinner.,ˈpæstə
+pizza,pizza,Order a pizza tonight.,ˈpiːtsə
+hamburger,hamburger,I'll have a hamburger.,ˈhæmbɜːɡə
+sushi,sushi,Do you like sushi?,ˈsuːʃi
+curry,kari,The curry is spicy.,ˈkʌri
+update,pembaruan,Install the latest update.,ˈʌpdeɪt
+backup,cadangan,Make a backup of your files.,ˈbækʌp
+browser,peramban,Use a different browser.,ˈbraʊzə
+investment,investasi,Make a wise investment.,ɪnˈvestmənt
+profit,keuntungan,The business made a profit.,ˈprɒfɪt
+budget,anggaran,Stay within budget.,ˈbʌdʒɪt
+strategy,strategi,Develop a new strategy.,ˈstrætədʒi
+customer,pelanggan,The customer is always right.,ˈkʌstəmə
+nutrition,nutrisi,Good nutrition is important.,njuːˈtrɪʃn
+vitamin,vitamin,Take your vitamins.,ˈvɪtəmɪn
+treatment,pengobatan,Start the treatment.,ˈtriːtmənt
+itinerary,rencana perjalanan,Check the itinerary.,aɪˈtɪnərəri
+sightseeing,wisata,Go sightseeing tomorrow.,ˈsaɪtsiːɪŋ
+souvenir,oleh-oleh,Buy some souvenirs.,ˌsuːvəˈnɪə
+accommodation,akomodasi,Book your accommodation.,əˌkɒməˈdeɪʃn
+vacuum,penyedot debu,Use the vacuum cleaner.,ˈvækjuəm
+iron,setrika,Iron your clothes.,ˈaɪən
+mop,pel,Mop the floor.,mɒp
+broom,sapu,Use the broom to sweep.,bruːm
+dustbin,tempat sampah,Empty the dustbin.,ˈdʌstbɪn
+friend request,permintaan pertemanan,Accept the friend request.,frend rɪˈkwest
+status update,pembaruan status,Post a status update.,ˈsteɪtəs ˈʌpdeɪt
+notification,pemberitahuan,Check your notifications.,ˌnəʊtɪfɪˈkeɪʃn
+timeline,linimasa,Scroll through the timeline.,ˈtaɪmlaɪn
+hashtag,tagar,Use this hashtag.,ˈhæʃtæɡ
+assignment,tugas,Complete your assignment.,əˈsaɪnmənt
+lecture,kuliah,Attend the lecture.,ˈlektʃə
+exam,ujian,Study for the exam.,ɪɡˈzæm
+curriculum,kurikulum,Follow the curriculum.,kəˈrɪkjʊləm
+diploma,ijazah,Receive your diploma.,dɪˈpləʊmə
+ecosystem,ekosistem,Protect the ecosystem.,ˈiːkəʊsɪstəm
+climate,iklim,The climate is changing.,ˈklaɪmət
+species,spesies,Endangered species.,ˈspiːʃiːz
+habitat,habitat,Natural habitat.,ˈhæbɪtæt
+environment,lingkungan,Save the environment.,ɪnˈvaɪrənmənt
+commute,perjalanan,Daily commute to work.,kəˈmjuːt
+departure,keberangkatan,Check departure time.,dɪˈpɑːtʃə
+arrival,kedatangan,Expected arrival time.,əˈraɪvl
+terminal,terminal,Go to terminal three.,ˈtɜːmɪnl
+cart,keranjang,Add to cart.,kɑːt
+checkout,pembayaran,Proceed to checkout.,ˈtʃekaʊt
+shipping,pengiriman,Free shipping worldwide.,ˈʃɪpɪŋ
+tracking,pelacakan,Check order tracking.,ˈtrækɪŋ
+accident,kecelakaan,Report the accident.,ˈæksɪdənt
+danger,bahaya,Stay away from danger.,ˈdeɪndʒə
+warning,peringatan,Read the warning signs.,ˈwɔːnɪŋ
+actor,aktor,My favorite actor.,ˈæktə
+actress,aktris,She's a famous actress.,ˈæktrəs
+director,sutradara,Who's the director?,dəˈrektə
+plot,alur cerita,Interesting plot twist.,plɒt
+review,ulasan,Read the movie review.,rɪˈvjuː
+balance,saldo,Check your balance.,ˈbæləns
+transfer,transfer,Make a bank transfer.,ˈtrænsfɜː
+withdraw,tarik tunai,Withdraw money.,wɪðˈdrɔː
+deposit,setor,Deposit the check.,dɪˈpɒzɪt
+statement,laporan rekening,Monthly bank statement.,ˈsteɪtmənt
+quickly,dengan cepat,Do it quickly.,ˈkwɪkli
+carefully,dengan hati-hati,Drive carefully.,ˈkeəfəli
+slowly,dengan lambat,"Speak slowly, please.",ˈsləʊli
+usually,biasanya,I usually walk.,ˈjuːʒuəli
+definitely,pasti,I'll definitely come.,ˈdefɪnətli
+crash,macet,The computer crashed.,kræʃ
+freeze,beku,Screen is frozen.,friːz
+error,kesalahan,Error message appeared.,ˈerə
+restart,mulai ulang,Restart your computer.,ˈriːstɑːt
+priority,prioritas,Set your priorities.,praɪˈɒrəti
+delay,penundaan,Avoid delays.,dɪˈleɪ
+reminder,pengingat,Set a reminder.,rɪˈmaɪndə
+moisturizer,pelembab,Apply moisturizer.,ˈmɔɪstʃəraɪzə
+sunscreen,tabir surya,Use sunscreen daily.,ˈsʌnskriːn
+deodorant,deodoran,Apply deodorant.,diːˈəʊdərənt
+perfume,parfum,Nice perfume.,ˈpɜːfjuːm
+lotion,losion,Body lotion.,ˈləʊʃn
+resume,daftar riwayat hidup,Update your resume.,ˈrezjumeɪ
+interview,wawancara,Job interview today.,ˈɪntəvjuː
+promotion,promosi,Get a promotion.,prəˈməʊʃn
+skills,keterampilan,Improve your skills.,skɪlz
+weather,cuaca,Nice weather today.,ˈweðə
+weekend,akhir pekan,Plans for weekend?,ˌwiːkˈend
+holiday,liburan,Happy holiday!,ˈhɒlədeɪ
+news,berita,Heard the news?,njuːz
+thesis,tesis,Writing my thesis.,ˈθiːsɪs
+reference,referensi,Add references.,ˈrefrəns
+citation,kutipan,Proper citation format.,saɪˈteɪʃn
+abstract,abstrak,Write the abstract.,ˈæbstrækt
+conclusion,kesimpulan,Final conclusion.,kənˈkluːʒn
+repair,perbaikan,Need repairs.,rɪˈpeə
+plumber,tukang ledeng,Call the plumber.,ˈplʌmə
+electrician,tukang listrik,Contact an electrician.,ɪˌlekˈtrɪʃn
+leak,kebocoran,Fix the leak.,liːk
+maintenance,pemeliharaan,Regular maintenance.,ˈmeɪntənəns
+stop,pemberhentian,Next stop.,stɒp
+fare,ongkos,Transport fare.,feə
+install,pasang,Install the app.,ɪnˈstɔːl
+settings,pengaturan,Change settings.,ˈsetɪŋz
+storage,penyimpanan,Storage full.,ˈstɔːrɪdʒ
+tradition,tradisi,Cultural tradition.,trəˈdɪʃn
+festival,festival,Annual festival.,ˈfestɪvl
+ceremony,upacara,Wedding ceremony.,ˈserəməni
+custom,adat,Local customs.,ˈkʌstəm
+workspace,ruang kerja,Set up your workspace.,ˈwɜːkspeɪs
+connection,koneksi,Check your connection.,kəˈnekʃn
+virtual,virtual,Virtual meeting.,ˈvɜːtʃuəl
+flexible,fleksibel,Flexible hours.,ˈfleksəbl
+story,cerita,Post a story.,ˈstɔːri
+follower,pengikut,New follower.,ˈfɒləʊə
+trending,tren,Trending topic.,ˈtrendɪŋ
+viral,viral,Video went viral.,ˈvaɪrəl
+transaction,transaksi,Payment transaction.,trænˈzækʃn
+secure,aman,Secure payment.,sɪˈkjʊə
+mute,bisukan,Mute your microphone.,mjuːt
+unmute,suarakan,Please unmute.,ʌnˈmjuːt
+background,latar,Virtual background.,ˈbækɡraʊnd
+connect,sambung,Connect to call.,kəˈnekt
+device,perangkat,Smart device.,dɪˈvaɪs
+control,kontrol,Remote control.,kənˈtrəʊl
+sensor,sensor,Motion sensor.,ˈsensə
+automate,otomatis,Automate lights.,ˈɔːtəmeɪt
+system,sistem,Security system.,ˈsɪstəm
+stress,stres,Manage stress.,stres
+anxiety,kecemasan,Reduce anxiety.,æŋˈzaɪəti
+wellness,kesejahteraan,Mental wellness.,ˈwelnəs
+therapy,terapi,Seek therapy.,ˈθerəpi
+mindful,sadar,Be mindful.,ˈmaɪndfʊl
+pollution,polusi,Air pollution.,pəˈluːʃn
+recycle,daur ulang,Recycle plastic.,riːˈsaɪkl
+sustainable,berkelanjutan,Sustainable living.,səˈsteɪnəbl
+waste,sampah,Reduce waste.,weɪst
+headline,berita utama,Today's headlines.,ˈhedlaɪn
+live,langsung,Live coverage.,laɪv
+complaint,keluhan,File a complaint.,kəmˈpleɪnt
+support,dukungan,Technical support.,səˈpɔːt
+refund,pengembalian dana,Request refund.,ˈriːfʌnd
+feedback,umpan balik,Give feedback.,ˈfiːdbæk
+booking,pemesanan,Hotel booking.,ˈbʊkɪŋ
+package,paket,Holiday package.,ˈpækɪdʒ
+vacancy,lowongan,Job vacancy.,ˈveɪkənsi
+application,lamaran,Job application.,ˌæplɪˈkeɪʃn
+qualified,berkualifikasi,Qualified candidate.,ˈkwɒlɪfaɪd
+position,posisi,Available position.,pəˈzɪʃn
+expense,pengeluaran,Track expenses.,ɪkˈspens
+income,pendapatan,Monthly income.,ˈɪnkʌm
+ride,tumpangan,Book a ride.,raɪd
+location,lokasi,Share location.,ləʊˈkeɪʃn
+pickup,penjemputan,Pickup point.,ˈpɪkʌp
+issue,masalah,Technical issue.,ˈɪʃuː
+broken,rusak,Phone is broken.,ˈbrəʊkən
+missing,hilang,Missing item.,ˈmɪsɪŋ
+stuck,macet,Stuck in traffic.,stʌk
+fix,perbaiki,Fix the problem.,fɪks
+solve,selesaikan,Solve the issue.,sɒlv
+advice,saran,Seek advice.,ədˈvaɪs
+birthday,ulang tahun,Happy birthday celebration.,ˈbɜːθdeɪ
+wedding,pernikahan,Attend the wedding.,ˈwedɪŋ
+reunion,reuni,Family reunion dinner.,riːˈjuːniən
+graduation,wisuda,Graduation ceremony.,ˌɡrædʒuˈeɪʃn
+anniversary,ulang tahun pernikahan,Wedding anniversary.,ˌænɪˈvɜːsəri
+streaming,streaming,Video streaming service.,ˈstriːmɪŋ
+subscription,langganan,Monthly subscription.,səbˈskrɪpʃn
+login,masuk,Login to your account.,ˈlɒɡɪn
+bake,memanggang,Bake a cake.,beɪk
+chop,mencincang,Chop the vegetables.,tʃɒp
+fry,menggoreng,Fry the chicken.,fraɪ
+blend,memblender,Blend the smoothie.,blend
+grill,memanggang,Grill the fish.,ɡrɪl
+fitness,kebugaran,Fitness goals.,ˈfɪtnəs
+career,karier,Career development.,kəˈrɪə
+education,pendidikan,Further education.,ˌedʒuˈkeɪʃn
+relationship,hubungan,Build relationships.,rɪˈleɪʃnʃɪp
+typo,salah ketik,Typing mistake.,ˈtaɪpəʊ
+misunderstand,salah paham,Misunderstand instructions.,ˌmɪsʌndəˈstænd
+forget,lupa,Forget appointment.,fəˈɡet
+wrong,salah,Wrong direction.,rɒŋ
+drizzle,gerimis,Light drizzle.,ˈdrɪzl
+forecast,ramalan cuaca,Weather forecast.,ˈfɔːkɑːst
+temperature,suhu,High temperature.,ˈtemprətʃə
+seasonal,musiman,Seasonal changes.,ˈsiːzənl
+brand,merek,Favorite brand.,brænd
+quality,kualitas,Good quality.,ˈkwɒləti
+bargain,tawar-menawar,Look for bargains.,ˈbɑːɡən
+compare,membandingkan,Compare prices.,kəmˈpeə
+recommend,merekomendasikan,Recommend products.,ˌrekəˈmend
+practice,latihan,Regular practice.,ˈpræktɪs
+memorize,menghafal,Memorize vocabulary.,ˈmeməraɪz
+understand,memahami,Understand concept.,ˌʌndəˈstænd
+adventure,petualangan,New adventure.,ədˈventʃə
+explore,menjelajahi,Explore the city.,ɪkˈsplɔː
+discover,menemukan,Discover places.,dɪˈskʌvə
+memory,kenangan,Travel memories.,ˈmeməri
+diet,pola makan,Healthy diet.,ˈdaɪət
+hydrate,hidrasi,Stay hydrated.,haɪˈdreɪt
+checkup,pemeriksaan,Regular checkup.,ˈtʃekʌp
+organize,mengatur,Organize tasks.,ˈɔːɡənaɪz
+leadership,kepemimpinan,Leadership skills.,ˈliːdəʃɪp
+teamwork,kerja tim,Good teamwork.,ˈtiːmwɜːk
+reliable,dapat diandalkan,Reliable worker.,rɪˈlaɪəbl
+renovate,merenovasi,Renovate kitchen.,ˈrenəveɪt
+decorate,mendekorasi,Decorate room.,ˈdekəreɪt
+formal,formal,Formal language.,ˈfɔːml
+casual,santai,Casual conversation.,ˈkæʒuəl
+direct,langsung,Direct approach.,dəˈrekt
+polite,sopan,Polite manner.,pəˈlaɪt
+friendly,ramah,Friendly tone.,ˈfrendli
+growth,pertumbuhan,Personal growth.,ɡrəʊθ
+mindset,pola pikir,Positive mindset.,ˈmaɪndset
+confidence,kepercayaan diri,Build confidence.,ˈkɒnfɪdəns
+motivation,motivasi,Stay motivated.,ˌməʊtɪˈveɪʃn
+course,kursus,Online course.,kɔːs
+webinar,webinar,Join the webinar.,ˈwebɪnɑː
+tutorial,tutorial,Video tutorial.,tjuːˈtɔːriəl
+certificate,sertifikat,Course certificate.,səˈtɪfɪkət
+signal,sinyal,Poor signal.,ˈsɪɡnəl
+roaming,roaming,Data roaming.,ˈrəʊmɪŋ
+coverage,jangkauan,Network coverage.,ˈkʌvərɪdʒ
+meditation,meditasi,Morning meditation.,ˌmedɪˈteɪʃn
+relaxation,relaksasi,Relaxation time.,ˌriːlækˈseɪʃn
+hobby,hobi,Personal hobby.,ˈhɒbi
+journal,jurnal,Writing journal.,ˈdʒɜːnl
+workout,latihan,Daily workout.,ˈwɜːkaʊt
+recipe,resep,Follow recipe.,ˈresəpi
+ingredient,bahan,Fresh ingredients.,ɪnˈɡriːdiənt
+measure,mengukur,Measure ingredients.,ˈmeʒə
+season,membumbui,Season well.,ˈsiːzn
+taste,mencicipi,Taste test.,teɪst
+presentation,presentasi,Give presentation.,ˌpreznˈteɪʃn
+campaign,kampanye,Marketing campaign.,kæmˈpeɪn
+content,konten,Create content.,ˈkɒntent
+audience,audiens,Target audience.,ˈɔːdiəns
+analytics,analitik,Check analytics.,ˌænəˈlɪtɪks
+insurance,asuransi,Life insurance.,ɪnˈʃʊərəns
+retirement,pensiun,Retirement plan.,rɪˈtaɪəmənt
+organic,organik,Organic food.,ɔːˈɡænɪk
+minimalist,minimalis,Minimalist living.,ˈmɪnɪməlɪst
+eco-friendly,ramah lingkungan,Eco-friendly products.,ˈiːkəʊ ˈfrendli
+privacy,privasi,Privacy settings.,ˈprɪvəsi
+security,keamanan,Security measure.,sɪˈkjʊərəti
+protection,perlindungan,Virus protection.,prəˈtekʃn
+dating,kencan,Online dating.,ˈdeɪtɪŋ
+partner,pasangan,Life partner.,ˈpɑːtnə
+commitment,komitmen,Long-term commitment.,kəˈmɪtmənt
+boundary,batasan,Personal boundaries.,ˈbaʊndri
+communication,komunikasi,Open communication.,kəˌmjuːnɪˈkeɪʃn
+apartment,apartemen,City apartment.,əˈpɑːtmənt
+neighborhood,lingkungan,Local neighborhood.,ˈneɪbəhʊd
+lifestyle,gaya hidup,Urban lifestyle.,ˈlaɪfstaɪl
+convenience,kenyamanan,Modern convenience.,kənˈviːniəns
+hygiene,kebersihan,Personal hygiene.,ˈhaɪdʒiːn
+precaution,pencegahan,Safety precaution.,prɪˈkɔːʃn
+prevention,pencegahan,Disease prevention.,prɪˈvenʃn
+gathering,pertemuan,Social gathering.,ˈɡæðərɪŋ
+event,acara,Community event.,ɪˈvent
+party,pesta,Birthday party.,ˈpɑːti
+celebration,perayaan,Special celebration.,ˌselɪˈbreɪʃn
+meetup,pertemuan,Group meetup.,ˈmiːtʌp
+planning,perencanaan,Time planning.,ˈplænɪŋ
+efficiency,efisiensi,Work efficiency.,ɪˈfɪʃnsi
+organization,pengaturan,Time organization.,ˌɔːɡənaɪˈzeɪʃn
+solution,solusi,Find solution.,səˈluːʃn
+alternative,alternatif,Alternative option.,ɔːlˈtɜːnətɪv
+decision,keputusan,Make decision.,dɪˈsɪʒn
+headset,headset,Wireless headset.,ˈhedset
+webcam,kamera web,HD webcam.,ˈwebkæm
+microphone,mikrofon,USB microphone.,ˈmaɪkrəfəʊn
+desk,meja kerja,Adjustable desk.,desk
+monitor,monitor,External monitor.,ˈmɒnɪtə
+electronics,elektronik,Electronics section.,ɪˌlekˈtrɒnɪks
+fashion,mode,Fashion items.,ˈfæʃn
+groceries,bahan makanan,Online groceries.,ˈɡrəʊsəriz
+appliances,peralatan,Home appliances.,əˈplaɪənsɪz
+accessories,aksesoris,Phone accessories.,əkˈsesəriz
+caption,keterangan,Photo caption.,ˈkæpʃn
+influencer,influencer,Social influencer.,ˈɪnfluənsə
+engagement,keterlibatan,User engagement.,ɪnˈɡeɪdʒmənt
+thermostat,termostat,Smart thermostat.,ˈθɜːməstæt
+lighting,pencahayaan,Smart lighting.,ˈlaɪtɪŋ
+doorbell,bel pintu,Video doorbell.,ˈdɔːbel
+cardio,kardio,Cardio workout.,ˈkɑːdɪəʊ
+strength,kekuatan,Strength training.,streŋθ
+yoga,yoga,Morning yoga.,ˈjəʊɡə
+stretching,peregangan,Stretching exercises.,ˈstretʃɪŋ
+pilates,pilates,Pilates class.,pɪˈlɑːtiːz
+bandwidth,bandwidth,Internet bandwidth.,ˈbændwɪdθ
+router,router,Wireless router.,ˈruːtə
+ethernet,ethernet,Ethernet cable.,ˈiːθənet
+protocol,protokol,Network protocol.,ˈprəʊtəkɒl
+milestone,tonggak,Project milestone.,ˈmaɪlstəʊn
+deliverable,hasil kerja,Project deliverable.,dɪˈlɪvərəbl
+scope,ruang lingkup,Project scope.,skəʊp
+stakeholder,pemangku kepentingan,Project stakeholder.,ˈsteɪkhəʊldə
+coding,pemrograman,Coding skills.,ˈkəʊdɪŋ
+design,desain,Graphic design.,dɪˈzaɪn
+editing,penyuntingan,Video editing.,ˈedɪtɪŋ
+programming,pemrograman,Computer programming.,ˈprəʊɡræmɪŋ
+diversity,keberagaman,Workplace diversity.,daɪˈvɜːsəti
+inclusion,inklusi,Inclusive environment.,ɪnˈkluːʒn
+collaboration,kolaborasi,Team collaboration.,kəˌlæbəˈreɪʃn
+culture,budaya,Company culture.,ˈkʌltʃə
+values,nilai-nilai,Corporate values.,ˈvæljuːz
+firewall,firewall,Network firewall.,ˈfaɪəwɔːl
+antivirus,antivirus,Antivirus software.,ˌæntiˈvaɪrəs
+encryption,enkripsi,Data encryption.,ɪnˈkrɪpʃn
+authentication,autentikasi,Two-factor authentication.,ɔːˌθentɪˈkeɪʃn
+malware,malware,Malware protection.,ˈmælweə
+transportation,transportasi,Transportation options.,ˌtrænspɔːˈteɪʃn
+cuisine,masakan,International cuisine.,kwɪˈziːn
+ambiance,suasana,Restaurant ambiance.,ˈæmbɪəns
+service,layanan,Table service.,ˈsɜːvɪs
+playlist,daftar putar,Music playlist.,ˈpleɪlɪst
+recommendation,rekomendasi,App recommendation.,ˌrekəmenˈdeɪʃn
+checklist,daftar periksa,Daily checklist.,ˈtʃeklɪst
+planner,perencana,Digital planner.,ˈplænə
+organizer,pengatur,Life organizer.,ˈɔːɡənaɪzə
+certification,sertifikasi,Professional certification.,səˌtɪfɪˈkeɪʃn
+training,pelatihan,Skills training.,ˈtreɪnɪŋ
+workshop,lokakarya,Professional workshop.,ˈwɜːkʃɒp
+mentor,mentor,Career mentor.,ˈmentɔː
+networking,jejaring,Professional networking.,ˈnetwɜːkɪŋ
